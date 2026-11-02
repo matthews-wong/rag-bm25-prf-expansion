@@ -1,0 +1,16 @@
+{"id": "inv-1", "text": "Disputing an invoice: open a billing dispute and the finance team issues a credit memo once the charge is reviewed."}
+{"id": "inv-2", "text": "A credit memo reduces the amount owed on an account. Credit memos are posted to the ledger and applied to the next statement."}
+{"id": "inv-3", "text": "Statement reconciliation: match each ledger posting against the bank statement and flag credit memo adjustments."}
+{"id": "pay-1", "text": "Payment methods: card, bank transfer and direct debit. Failed card payments are retried three times."}
+{"id": "pay-2", "text": "Direct debit mandates can be cancelled in the billing portal. The bank confirms the cancellation by email."}
+{"id": "sec-1", "text": "Rotate API keys every ninety days. Revoked keys stop working immediately and are logged in the audit trail."}
+{"id": "sec-2", "text": "The audit trail records sign-ins, key rotation and permission changes. Export it as CSV for compliance reviews."}
+{"id": "sec-3", "text": "Enable two-factor authentication with an authenticator app. Recovery codes are shown once at setup."}
+{"id": "dep-1", "text": "Deployments roll out in waves. A failed health check pauses the rollout and triggers an automatic rollback."}
+{"id": "dep-2", "text": "Rollback restores the previous release image. The rollout history lists every release with its image tag."}
+{"id": "dep-3", "text": "Canary releases send five percent of traffic to the new release before the rollout continues."}
+{"id": "hr-1", "text": "Annual leave requests are submitted in the HR system and approved by the line manager."}
+{"id": "hr-2", "text": "Office closed on public holidays. The holiday calendar is published each December."}
+{"id": "sup-1", "text": "Support tickets are triaged by severity. Severity one incidents page the on-call engineer."}
+{"id": "sup-2", "text": "The on-call engineer follows the incident runbook and posts updates every thirty minutes."}
+{"id": "sup-3", "text": "After an incident, write a postmortem within five days and review it in the weekly meeting."}

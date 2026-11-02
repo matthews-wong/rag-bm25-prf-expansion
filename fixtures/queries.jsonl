@@ -1,0 +1,8 @@
+{"query": "how do I contest a charge", "relevant": ["inv-1", "inv-2"]}
+{"query": "cancel automatic bank payments", "relevant": ["pay-2"]}
+{"query": "who can see who changed permissions", "relevant": ["sec-2"]}
+{"query": "undo a bad deployment", "relevant": ["dep-1", "dep-2"]}
+{"query": "which releases got traffic first", "relevant": ["dep-3"]}
+{"query": "paging when something breaks", "relevant": ["sup-1", "sup-2"]}
+{"query": "reduce the amount a customer owes", "relevant": ["inv-2", "inv-1"]}
+{"query": "review of key rotation history", "relevant": ["sec-1", "sec-2"]}
